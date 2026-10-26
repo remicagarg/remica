@@ -1,22 +1,26 @@
-# remica
+### Hi, I'm Remica 👋
 
-# About me
+### Data Analytics & E-Commerce Operations Professional
 
-I am a risk operations professional transitioning into the field of Data Science. Leveraging my experience in pattern recognition and risk mitigation at Amazon, I focus on turning complex datasets into predictive models and actionable business strategies.
+I am a Data Analytics professional specializing in translating complex transactional metrics into actionable business insights. My background focuses on bridging the gap between rigorous operational data handling, threat analysis, and automated reporting systems. 
 
-### 🚀 What I'm Passionate About
-- **Data-Driven Innovation:** Transforming raw information into predictive systems that solve real-world problems.
-- **Process Optimization:** Building analytics pipelines to eliminate inefficiencies and scale business performance.
-- **Continuous Learning:** Constantly expanding my skills across machine learning paradigms and statistical modeling architectures.
+### 🛠️ Specialized Technical Toolkit
 
-### 🛠️ Technical Expertise & Skills
-- **Languages:** Python, SQL
-- **Libraries & Models:** Machine Learning Algorithms, Statistical Analysis, Predictive Modeling
-- **Data Visualization:** Power BI, Tableau, Advanced Excel
-- **Core Strengths:** Complex Problem-Solving, Critical Thinking, Pattern Recognition, SOP Compliance
+* **Languages & Environments:** Python, SQL, Jupyter Notebook, Anaconda Distribution
+* **Data Manipulation & Architecture:** Pandas, NumPy, Relational Database Structuring
+* **Business Intelligence & Visualization:** Microsoft Power BI, Advanced Excel (Macros, VBA)
+* **Core Competencies:** E-commerce Analytics, Pattern Recognition, Process Optimization, Metrics Tracking
 
-### 📈 Current Focus & Projects
-- 🔭 I’m currently working on my Data Science Career Track and certified capstone projects.
-- 🌱 I’m currently expanding my knowledge in advanced machine learning and statistical model building.
-- 💬 Ask me about transitioning from risk analytics into full-stack data science.
-- 📫 How to reach me: Connect with me right here on GitHub or via my LinkedIn profile!
+### 📈 Featured Portfolio Project
+
+### 🏪 [NexusGoods E-Commerce Analytics](https://github.com/remicagarg/NexusGoods-Ecommerce-Analytics)
+
+An end-to-end repository tracking and visualizing critical operational KPIs for online marketplace structures. 
+
+* **Data Foundations:** Built automated reporting models using Python to process raw relational transaction arrays.
+* **Visual Delivery:** Created structural Power BI tracking platforms allowing for rapid, data-centric workflow adjustments.
+* **Impact:** Replaced manual reporting tasks to drive processing latency down and enhance compliance visibility.
+
+### 🤝 Connect with Me
+
+* **LinkedIn:** [Remica on LinkedIn](https://www.linkedin.com/in/remica-garg-116061179/)
